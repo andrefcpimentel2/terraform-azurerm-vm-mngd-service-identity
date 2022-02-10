@@ -1,0 +1,1 @@
+# terraform-azurerm-vm-mngd-service-identity
